@@ -1,6 +1,6 @@
 {
   "name": "uganda",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a simple npm package that returns provinces, districts, sectors, villages and cells found in Uganda.",
   "main": "index.js",
   "scripts": {
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lyrictape/uganda.git"
+    "url": "git+https://github.com/javaScriptKampala/uganda.git"
   },
   "keywords": [
     "uganda"
   ],
-  "author": "kayondo edward (@amkayondo)",
+  "author": "JavaScript Kampala",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lyrictape/uganda/issues"
+    "url": "https://github.com/javaScriptKampala/uganda/issues"
   },
-  "homepage": "https://github.com/lyrictape/uganda#readme"
+  "homepage": "https://github.com/javaScriptKampala/uganda#readme"
 }
